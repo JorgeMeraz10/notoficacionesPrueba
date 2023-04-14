@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notificaciones Prueba</string>
+    <string name="msg_token_fmt">Token: %1$s</string>
+</resources>

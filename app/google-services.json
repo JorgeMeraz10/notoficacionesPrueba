@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280896360424",
+    "project_id": "appnotificaciones-37e51",
+    "storage_bucket": "appnotificaciones-37e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280896360424:android:910bea293fa785c84a1e5d",
+        "android_client_info": {
+          "package_name": "com.example.notoficacionesprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280896360424-urg732tmprh2grs87aigu5onm162fb36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkhg8yOvwqG44Fk1xZwhll3sOH9ozOWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280896360424-urg732tmprh2grs87aigu5onm162fb36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
